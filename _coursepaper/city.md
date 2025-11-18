@@ -1,6 +1,6 @@
 ---
 title: "Spectral Citadel: The Kowloon Walled City as a Memory Space in Hong Kong Cinema (1970–2024)"
-excerpt: "Abstract: This paper analyzes how Hong Kong cinema from the 1970s to 2024 reimagines the Kowloon Walled City as a site of memory and identity. Inspired by coursework in _Cultural Memory_, it developed into an independent study using textual analysis. After one major revision, it was ultimately rejected by Continuum and later refined as the author’s PhD writing sample."
+excerpt: "Abstract: This paper analyzes how Hong Kong cinema from the 1970s to 2024 reimagines the Kowloon Walled City as a site of memory and identity. Inspired by coursework in _Cultural Memory_, it developed into an independent study using textual analysis."
 date: 2025-07-15
 author_profile: true
 layout: single
@@ -64,13 +64,6 @@ Thus, in the context of democratic movements, the Lion Rock Spirit has been re-m
 The Kowloon Walled City, a landmark in Hong Kong’s urban history, has evolved from a physical site into a space of nostalgia and ultimately a symbolic cultural construct. This article takes cinematic representations of the Walled City from 1973 to 2024 as its object of study, systematically tracing how this symbolic space has been continuously reimagined and reconstructed across different political, social, and cultural contexts. In doing so, it addresses a gap in current scholarship: the lack of a longitudinal, systematic analysis of the Walled City's cinematic imaginary. Specifically, the article argues that between 1973 and 1994, prior to the Walled City’s demolition, films established its initial symbolic meanings by highlighting the interplay between the Lion Rock Spirit and the colonial rule of law. From 1995 to 2013, following its demolition, the Walled City was nostalgically reconstructed in cinema as a vessel for emotional projection and identity anxiety. Since the Umbrella Movement of 2014, it has increasingly served as a spatial metaphor for political unease and cultural reconfiguration. These shifting cinematic narratives underscore the dialectical relationship between space and collective memory, demonstrating how the symbolic significance of the Kowloon Walled City continues to be rewritten and deepened over time.
 As Ricœur (2000) observes, memory is not merely a recounting of the past, but a crucial process through which individuals and communities reconstruct their identities, ethics, and orientations toward action. Therefore, reflecting on the past is not merely an indulgence in nostalgia, but a powerful act of resistance against historical forgetting. In the face of the uncertain political horizon of 2047, cinematic nostalgia for Kowloon Walled City is not a retreat from reality but a strategic use of narrative memory to reclaim shared emotions and restore belonging amid uncertainty.
 
-
-**Acknowledgment**
-The author gratefully acknowledges the anonymous reviewers and the journal’s editor for their constructive comments on this manuscript.
-
-
-**Declaration of interest statement**
-The authors report there are no competing interests to declare.
 
 
 **References**
